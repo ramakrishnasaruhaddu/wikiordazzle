@@ -127,3 +127,8 @@ ha: false
 # ---------------------------------------------------------------------
 # Writeable data path used for cache and temporary user uploads.
 dataPath: ./data
+
+github:
+    enabled: true
+    clientId: c7aea26fa1ba0f18bd06
+    clientSecret:  5711bc30ff7f570576a64485c620699ab5df19e0 
